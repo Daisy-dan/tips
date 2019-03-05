@@ -1,6 +1,6 @@
 # tips
 
-idea plugins
+IntelliJ plugins
 
 1/Free Mybatis plugin
 
