@@ -10,9 +10,13 @@ IntelliJ plugins
 # 常用软件
 1/ 前后台编辑器
  JetBrains Toolbox 
+ 
  IntelliJ
+ 
  WebStorm
+ 
  Visual Studio Code
+ 
  Sublime Text
  
  2/ 数据库
