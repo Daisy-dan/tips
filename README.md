@@ -72,5 +72,12 @@ IntelliJ plugins
         
      iTerm
      
+   11/ 虚拟机+镜像
+    
+     Parallels Desktop
+     
+     cn_windows_10_business_editions_version_1903_updated_july_2019_x64_dvd_68b4eeaa.iso
+        
+     
     
     
