@@ -10,39 +10,39 @@ IntelliJ plugins
 # 常用软件
 1/ 前后台编辑器
 
- JetBrains Toolbox 
+    JetBrains Toolbox 
  
- IntelliJ
+    IntelliJ
  
- WebStorm
+    WebStorm
  
- Visual Studio Code
+    Visual Studio Code
  
- Sublime Text
+    Sublime Text
  
  2/ 数据库
  
-  DataGrip
+    DataGrip
   
-  Sequel Pro
+    Sequel Pro
   
-  Robomongo --MongoDB 可视化工具
+    Robomongo --MongoDB 可视化工具
   
  3/ 接口调试
  
-  Postman
+    Postman
   
-  Poster
+    Poster
   
-  Paw
+    Paw
   
   4/ 原型
   
-   Axure RP 8
+    Axure RP 8
    
   5/ mac读取硬盘
   
-   Mounty
+    Mounty
    
   6/ 翻墙
   
