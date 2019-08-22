@@ -60,9 +60,17 @@ IntelliJ plugins
     
     Android Studio
     
+    微信web开发者工具
+    
   9/ 图片视频
   
     Adobe Photoshop CS6
     
     Adobe Premiere Pro CC 2018
+    
+  10/ mac终端
+        
+     iTerm
+     
+    
     
