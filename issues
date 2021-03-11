@@ -1,0 +1,7 @@
+
+1/wechat bindind
+ sessionStorage.setItem('priorToLogin', window.location.href);  not in app.component.ts, in wechat side need in app.module.ts.
+ 
+ 2/position:fixed; ->in safari browser need resize the window   => position:absolute;
+ 
+ 3/height: calc(100vh - 134px);-> in wechat browser have some issue;
